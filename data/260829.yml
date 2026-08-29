@@ -1,0 +1,74 @@
+about:
+  description: The easiest, and most secure way to access and protect all of your infrastructure.
+  license: AGPL-3.0
+  homepage: https://goteleport.com
+  head: 1283425
+  archived: false
+  latestVersion: v18.10.0
+  collectedAt: 2026-08-29T07:07:59Z
+timeline:
+  created: 2015-03-02
+  lastCommit: 2026-08-25
+  lastRelease: 2026-07-09
+popularity:
+  star: 20857
+  watcher: 234
+  fork: 2144
+  release: 833
+  contributor: 465
+  pullRequest: 6423
+  issue: 13078
+language:
+  Go: 56811523
+  TypeScript: 12316235
+  C: 4725608
+  Rust: 443596
+  Shell: 378495
+  HCL: 308688
+  Makefile: 217889
+  JavaScript: 194311
+  Swift: 157898
+  Go Template: 96457
+  Objective-C: 67398
+  PowerShell: 42175
+  Python: 36732
+  Dockerfile: 34291
+  PLpgSQL: 18440
+  NSIS: 6448
+  HTML: 1765
+  CSS: 1362
+  Smarty: 1356
+totalLine: 75860667
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 263
+    openPR: 39
+    closedIssue: 25
+    openIssue: 74
+    commit: 291
+  last90d:
+    since: 2026-05-31
+    release: 12
+    mergedPR: 1626
+    openPR: 153
+    closedIssue: 113
+    openIssue: 211
+    commit: 1141
+  last180d:
+    since: 2026-03-02
+    release: 19
+    mergedPR: 3857
+    openPR: 275
+    closedIssue: 276
+    openIssue: 461
+    commit: 2444
+  last360d:
+    since: 2025-09-03
+    release: 58
+    mergedPR: 7924
+    openPR: 384
+    closedIssue: 697
+    openIssue: 834
+    commit: 4557
