@@ -7,7 +7,7 @@ about:
   latestVersion: "v18.10.0"
   latestRelease: "v18.10.0"
   latestPrerelease: "v18.10.0-rc.2"
-  collectedAt: 2026-09-09T04:46:52Z
+  collectedAt: 2026-09-09T18:41:01Z
 timeline:
   created: 2015-03-02
   lastCommit: 2026-08-25
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-07-09
   lastPrerelease: 2026-07-07
 popularity:
-  star: 20897
+  star: 20898
   watcher: 236
-  fork: 2148
+  fork: 2150
   release: 833
   contributor: 394
-  pullRequest: 55060
-  issue: 13096
+  pullRequest: 55062
+  issue: 13099
 language:
   Go: 56811523
   TypeScript: 12316235
@@ -48,60 +48,60 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 59
-    openPR: 28
-    closedIssue: 19
-    openIssue: 46
+    openPR: 29
+    closedIssue: 20
+    openIssue: 48
     commit: 46
   last60d:
     since: 2026-07-11
     release: 0
     mergedPR: 706
     openPR: 96
-    closedIssue: 61
-    openIssue: 131
+    closedIssue: 62
+    openIssue: 133
     commit: 569
   last90d:
     since: 2026-06-11
     release: 8
     mergedPR: 1302
     openPR: 128
-    closedIssue: 95
-    openIssue: 196
+    closedIssue: 96
+    openIssue: 198
     commit: 951
   last180d:
     since: 2026-03-13
     release: 17
     mergedPR: 3504
     openPR: 251
-    closedIssue: 265
-    openIssue: 430
+    closedIssue: 266
+    openIssue: 432
     commit: 2224
   last360d:
     since: 2025-09-14
     release: 55
     mergedPR: 7610
     openPR: 372
-    closedIssue: 683
-    openIssue: 810
+    closedIssue: 684
+    openIssue: 812
     commit: 4330
   last720d:
     since: 2024-09-19
     release: 100
     mergedPR: 17259
     openPR: 475
-    closedIssue: 1665
-    openIssue: 1330
+    closedIssue: 1666
+    openIssue: 1332
     commit: 8263
 total:
   release: 833
   mergedPR: 48613
   openPR: 557
   closedIssue: 10332
-  openIssue: 2764
+  openIssue: 2767
   commit: 27925
 ---
 path: /home/runner/.x-repo/github.com/gravitational/teleport
-collectedAt: 2026-09-09T04:49:27Z
+collectedAt: 2026-09-09T18:43:50Z
 loc:
   Go:
     code: 2339410
