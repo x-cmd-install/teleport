@@ -7,7 +7,7 @@ about:
   latestVersion: "v18.10.0"
   latestRelease: "v18.10.0"
   latestPrerelease: "v18.10.0-rc.2"
-  collectedAt: 2026-09-10T16:20:10Z
+  collectedAt: 2026-09-10T20:58:02Z
 timeline:
   created: 2015-03-02
   lastCommit: 2026-08-25
@@ -21,7 +21,7 @@ popularity:
   release: 833
   contributor: 394
   pullRequest: 55065
-  issue: 13106
+  issue: 13107
 language:
   Go: 56811523
   TypeScript: 12316235
@@ -49,59 +49,59 @@ recent:
     release: 0
     mergedPR: 36
     openPR: 28
-    closedIssue: 18
-    openIssue: 50
+    closedIssue: 20
+    openIssue: 49
     commit: 46
   last60d:
     since: 2026-07-12
     release: 0
     mergedPR: 705
     openPR: 98
-    closedIssue: 62
-    openIssue: 140
+    closedIssue: 65
+    openIssue: 138
     commit: 569
   last90d:
     since: 2026-06-12
     release: 8
     mergedPR: 1266
     openPR: 130
-    closedIssue: 94
-    openIssue: 200
+    closedIssue: 98
+    openIssue: 197
     commit: 951
   last180d:
     since: 2026-03-14
     release: 17
     mergedPR: 3497
     openPR: 253
-    closedIssue: 266
-    openIssue: 438
+    closedIssue: 270
+    openIssue: 435
     commit: 2224
   last360d:
     since: 2025-09-15
     release: 55
     mergedPR: 7566
     openPR: 374
-    closedIssue: 681
-    openIssue: 818
+    closedIssue: 685
+    openIssue: 815
     commit: 4330
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 17230
     openPR: 477
-    closedIssue: 1661
-    openIssue: 1336
+    closedIssue: 1665
+    openIssue: 1333
     commit: 8248
 total:
   release: 833
   mergedPR: 48613
   openPR: 559
-  closedIssue: 10332
-  openIssue: 2774
+  closedIssue: 10336
+  openIssue: 2771
   commit: 27925
 ---
 path: /home/runner/.x-repo/github.com/gravitational/teleport
-collectedAt: 2026-09-10T16:23:10Z
+collectedAt: 2026-09-10T21:01:26Z
 loc:
   Go:
     code: 2339410
