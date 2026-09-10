@@ -12,7 +12,7 @@ The easiest, and most secure way to access and protect all of your infrastructur
 x install teleport
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **3,052,391** 行代码（覆盖前 5 种语言、共 **9778** 个文件）。
 
@@ -47,7 +47,7 @@ x install teleport
 
 ## 流行度
 
-- **Star**: 20,907 · **Fork**: 2,152 · **开放 issue**: 13,107 · **贡献者**: 394
+- **Star**: 20,908 · **Fork**: 2,152 · **开放 issue**: 13,107 · **贡献者**: 394
 
 ## 累计统计
 
@@ -83,4 +83,4 @@ teleport 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:01:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:53:54Z._

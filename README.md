@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,907 · **Forks**: 2,152 · **Open issues**: 13,107 · **Contributors**: 394
+- **Stars**: 20,908 · **Forks**: 2,152 · **Open issues**: 13,107 · **Contributors**: 394
 
 ## Totals (cumulative)
 
@@ -83,4 +83,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:01:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:53:53Z._
