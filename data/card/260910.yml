@@ -7,7 +7,7 @@ about:
   latestVersion: "v18.10.0"
   latestRelease: "v18.10.0"
   latestPrerelease: "v18.10.0-rc.2"
-  collectedAt: 2026-09-10T20:58:02Z
+  collectedAt: 2026-09-10T22:51:02Z
 timeline:
   created: 2015-03-02
   lastCommit: 2026-08-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-09
   lastPrerelease: 2026-07-07
 popularity:
-  star: 20907
+  star: 20908
   watcher: 236
   fork: 2152
   release: 833
@@ -101,7 +101,7 @@ total:
   commit: 27925
 ---
 path: /home/runner/.x-repo/github.com/gravitational/teleport
-collectedAt: 2026-09-10T21:01:26Z
+collectedAt: 2026-09-10T22:53:42Z
 loc:
   Go:
     code: 2339410
