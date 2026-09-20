@@ -4,7 +4,7 @@
 
 The easiest, and most secure way to access and protect all of your infrastructure.
 
-![teleport](https://repo.x-cmd.io/teleport.svg)
+[![x-cmd/install — teleport Code Quality Monitoring Repo Card](https://repo.x-cmd.io/teleport.svg)](https://x-cmd.com/install/teleport)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,925 · **Forks**: 2,157 · **Open issues**: 13,053 · **Contributors**: 394
+- **Stars**: 20,926 · **Forks**: 2,157 · **Open issues**: 13,054 · **Contributors**: 394
 
 ## Totals (cumulative)
 
-- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 559 · **Closed issues**: 10349 · **Open issues**: 2704 · **Commits**: 27925
+- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 559 · **Closed issues**: 10350 · **Open issues**: 2704 · **Commits**: 27925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 24 | 15 | 43 | 23 |
-| last60d | 2026-07-20 | 0 | 528 | 84 | 54 | 120 | 450 |
-| 90d | 2026-06-20 | 7 | 1111 | 122 | 97 | 178 | 844 |
-| last180d | 2026-03-22 | 17 | 3321 | 238 | 249 | 391 | 2147 |
-| 360d | 2025-09-23 | 53 | 7282 | 367 | 674 | 769 | 4242 |
-| last720d | 2024-09-28 | 100 | 17141 | 477 | 1666 | 1278 | 8201 |
+| 30d | 2026-08-21 | 0 | 0 | 23 | 13 | 39 | 0 |
+| last60d | 2026-07-22 | 0 | 465 | 77 | 51 | 117 | 322 |
+| 90d | 2026-06-22 | 7 | 1085 | 117 | 97 | 178 | 768 |
+| last180d | 2026-03-24 | 17 | 3271 | 236 | 243 | 386 | 2040 |
+| 360d | 2025-09-25 | 51 | 7203 | 367 | 668 | 764 | 4161 |
+| last720d | 2024-09-30 | 100 | 17098 | 477 | 1663 | 1278 | 8200 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:52:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:53:46Z._
