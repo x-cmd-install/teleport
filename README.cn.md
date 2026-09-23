@@ -4,7 +4,7 @@
 
 The easiest, and most secure way to access and protect all of your infrastructure.
 
-[![x-cmd/install — teleport Code Quality Monitoring Repo Card](https://repo.x-cmd.io/teleport.svg?lang=zh)](https://x-cmd.com/install/teleport)
+[![x-cmd/install — teleport Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/teleport.svg?lang=zh)](https://x-cmd.com/install/teleport)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install teleport
 
 ## 流行度
 
-- **Star**: 20,930 · **Fork**: 2,158 · **开放 issue**: 13,056 · **贡献者**: 394
+- **Star**: 20,935 · **Fork**: 2,159 · **开放 issue**: 13,058 · **贡献者**: 394
 
 ## 累计统计
 
-- **发布数**: 833 · **已合并 PR**: 48613 · **开放 PR**: 558 · **已关闭 issue**: 10349 · **开放 issue**: 2707 · **提交数**: 27925
+- **发布数**: 833 · **已合并 PR**: 48613 · **开放 PR**: 522 · **已关闭 issue**: 10349 · **开放 issue**: 2709 · **提交数**: 27925
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 23 | 13 | 42 | 0 |
-| last60d | 2026-07-24 | 0 | 384 | 65 | 49 | 111 | 322 |
-| 90d | 2026-06-24 | 5 | 1039 | 112 | 92 | 176 | 768 |
-| last180d | 2026-03-26 | 17 | 3194 | 230 | 234 | 377 | 2040 |
-| 360d | 2025-09-27 | 51 | 7163 | 366 | 658 | 765 | 4161 |
-| last720d | 2024-10-02 | 100 | 17009 | 475 | 1651 | 1278 | 8153 |
+| 30d | 2026-08-24 | 0 | 0 | 23 | 11 | 41 | 0 |
+| last60d | 2026-07-25 | 0 | 381 | 64 | 47 | 113 | 322 |
+| 90d | 2026-06-25 | 4 | 1023 | 110 | 88 | 172 | 768 |
+| last180d | 2026-03-27 | 17 | 3171 | 220 | 229 | 375 | 2040 |
+| 360d | 2025-09-28 | 51 | 7156 | 341 | 658 | 767 | 4161 |
+| last720d | 2024-10-03 | 100 | 16961 | 442 | 1648 | 1277 | 8131 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ teleport 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:51:34Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:42:19Z._
