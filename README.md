@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,958 · **Forks**: 2,168 · **Open issues**: 13,075 · **Contributors**: 394
+- **Stars**: 20,961 · **Forks**: 2,168 · **Open issues**: 13,077 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 524 · **Closed issues**: 10362 · **Open issues**: 2713 · **Commits**: 27925
+- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 523 · **Closed issues**: 10363 · **Open issues**: 2714 · **Commits**: 27925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 26 | 9 | 46 | 0 |
-| last60d | 2026-08-01 | 0 | 225 | 55 | 42 | 109 | 222 |
-| 90d | 2026-07-02 | 2 | 859 | 108 | 80 | 170 | 683 |
-| last180d | 2026-04-03 | 17 | 2996 | 215 | 229 | 362 | 1947 |
-| 360d | 2025-10-05 | 47 | 6959 | 343 | 649 | 758 | 4051 |
-| last720d | 2024-10-10 | 100 | 16728 | 443 | 1638 | 1270 | 8018 |
+| 30d | 2026-09-01 | 0 | 0 | 20 | 9 | 45 | 0 |
+| last60d | 2026-08-02 | 0 | 224 | 55 | 43 | 110 | 222 |
+| 90d | 2026-07-03 | 2 | 845 | 106 | 81 | 169 | 683 |
+| last180d | 2026-04-04 | 17 | 2994 | 214 | 230 | 363 | 1947 |
+| 360d | 2025-10-06 | 47 | 6911 | 341 | 647 | 758 | 4051 |
+| last720d | 2024-10-11 | 100 | 16676 | 442 | 1638 | 1269 | 7993 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:42:55Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:46:55Z._
