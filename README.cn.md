@@ -31,8 +31,8 @@ x install teleport
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install teleport
 
 ## 流行度
 
-- **Star**: 21,007 · **Fork**: 2,181 · **开放 issue**: 13,154 · **贡献者**: 393
+- **Star**: 21,010 · **Fork**: 2,182 · **开放 issue**: 13,157 · **贡献者**: 393
 
 ## 累计统计
 
-- **发布数**: 833 · **已合并 PR**: 48613 · **开放 PR**: 497 · **已关闭 issue**: 10404 · **开放 issue**: 2750 · **提交数**: 27925
+- **发布数**: 833 · **已合并 PR**: 48613 · **开放 PR**: 500 · **已关闭 issue**: 10410 · **开放 issue**: 2747 · **提交数**: 27925
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 13 | 25 | 75 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 35 | 42 | 113 | 0 |
-| 90d | 2026-07-23 | 0 | 418 | 77 | 80 | 185 | 373 |
-| last180d | 2026-04-24 | 17 | 2448 | 191 | 222 | 365 | 1583 |
-| 360d | 2025-10-26 | 45 | 6454 | 328 | 619 | 761 | 3770 |
-| last720d | 2024-10-31 | 100 | 16091 | 425 | 1620 | 1289 | 7698 |
+| 30d | 2026-09-22 | 0 | 0 | 16 | 26 | 75 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 38 | 45 | 113 | 0 |
+| 90d | 2026-07-24 | 0 | 384 | 78 | 82 | 181 | 373 |
+| last180d | 2026-04-25 | 17 | 2445 | 193 | 226 | 364 | 1583 |
+| 360d | 2025-10-27 | 45 | 6424 | 329 | 621 | 760 | 3770 |
+| last720d | 2024-11-01 | 100 | 16043 | 427 | 1617 | 1283 | 7679 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ teleport 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T04:39:51Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T04:38:23Z._
