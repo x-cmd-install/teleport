@@ -97,14 +97,15 @@
   srcname: net/teleport
   binname: teleport
   visiblename: teleport
-  version: 13.2.3
+  version: 18.11.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Teleport SSH server and Certificate Authority
   maintainers:
     - gclawes@github
     - herbygillot@github
   licenses:
+    - AGPL-3
     - Apache-2
   categories:
     - net
