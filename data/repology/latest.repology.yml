@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: teleport
+  binname: teleport
+  visiblename: teleport
+  version: 18.10.0
+  origversion: 18.10.0-1
+  status: outdated
+  summary: Modern SSH server for teams managing distributed infrastructure
+  maintainers:
+    - fuhry@aur
+  licenses:
+    - AGPLv3
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -17,18 +29,6 @@
     - AGPL-3.0
   categories:
     - Networking/File transfer
-- repo: aur
-  srcname: teleport
-  binname: teleport
-  visiblename: teleport
-  version: 18.10.0
-  origversion: 18.10.0-1
-  status: outdated
-  summary: Modern SSH server for teams managing distributed infrastructure
-  maintainers:
-    - fuhry@aur
-  licenses:
-    - AGPLv3
 - repo: aur
   srcname: teleport-bin
   binname: teleport-bin
@@ -421,6 +421,18 @@
     - juliusfreudenberger@github
   licenses:
     - AGPL-3.0-or-later
+- repo: openbsd
+  srcname: net/teleport
+  binname: teleport
+  visiblename: net/teleport
+  version: 18.11.1
+  origversion: null
+  status: newest
+  summary: reverse-proxy with built-in authentication and auditing
+  maintainers:
+    - stsp@openbsd.org
+  categories:
+    - net
 - repo: openpkg_current
   srcname: teleport
   visiblename: teleport
