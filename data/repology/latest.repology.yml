@@ -1,3 +1,14 @@
+- repo: openpkg_current
+  srcname: teleport
+  visiblename: teleport
+  version: 4.2.8.20200402
+  origversion: null
+  status: outdated
+  summary: SSH for Clusters
+  licenses:
+    - Apache
+  categories:
+    - Networking
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -426,24 +437,13 @@
   binname: teleport
   visiblename: net/teleport
   version: 18.11.1
-  origversion: 18.11.1p0
+  origversion: 18.11.1p2
   status: newest
   summary: reverse-proxy with built-in authentication and auditing
   maintainers:
     - stsp@openbsd.org
   categories:
     - net
-- repo: openpkg_current
-  srcname: teleport
-  visiblename: teleport
-  version: 4.2.8.20200402
-  origversion: null
-  status: outdated
-  summary: SSH for Clusters
-  licenses:
-    - Apache
-  categories:
-    - Networking
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: teleport
