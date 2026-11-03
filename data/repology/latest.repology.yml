@@ -225,6 +225,15 @@
     - juliusfreudenberger@github
   licenses:
     - AGPL-3.0-or-later
+- repo: scoop
+  subrepo: main
+  binname: teleport
+  visiblename: teleport
+  version: 18.10.0
+  origversion: null
+  status: outdated
+  licenses:
+    - AGPL-3.0
 - repo: nix_stable_25_05
   srcname: teleport
   visiblename: teleport
@@ -472,12 +481,3 @@
     - AGPL-3.0-only
   categories:
     - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: teleport
-  visiblename: teleport
-  version: 18.10.0
-  origversion: null
-  status: outdated
-  licenses:
-    - AGPL-3.0
