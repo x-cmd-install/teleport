@@ -31,8 +31,8 @@ Overall score: **5.6 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,063 · **Forks**: 2,181 · **Open issues**: 13,182 · **Contributors**: 393
+- **Stars**: 21,066 · **Forks**: 2,182 · **Open issues**: 13,186 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 501 · **Closed issues**: 10437 · **Open issues**: 2745 · **Commits**: 27925
+- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 500 · **Closed issues**: 10440 · **Open issues**: 2746 · **Commits**: 27925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 10 | 28 | 69 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 24 | 44 | 111 | 0 |
-| 90d | 2026-08-05 | 0 | 154 | 58 | 75 | 160 | 150 |
-| last180d | 2026-05-07 | 15 | 2156 | 184 | 220 | 352 | 1385 |
-| 360d | 2025-11-08 | 41 | 6048 | 324 | 598 | 710 | 3579 |
-| last720d | 2024-11-13 | 100 | 15560 | 426 | 1576 | 1261 | 7518 |
+| 30d | 2026-10-05 | 0 | 0 | 10 | 23 | 71 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 24 | 44 | 111 | 0 |
+| 90d | 2026-08-06 | 0 | 123 | 58 | 75 | 157 | 150 |
+| last180d | 2026-05-08 | 15 | 2124 | 182 | 222 | 350 | 1385 |
+| 360d | 2025-11-09 | 41 | 6048 | 323 | 600 | 712 | 3579 |
+| last720d | 2024-11-14 | 100 | 15485 | 424 | 1573 | 1262 | 7490 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:42:08Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:19:45Z._
