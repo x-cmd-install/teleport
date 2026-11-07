@@ -433,17 +433,6 @@
     - stsp@openbsd.org
   categories:
     - net
-- repo: openpkg_current
-  srcname: teleport
-  visiblename: teleport
-  version: 4.2.8.20200402
-  origversion: null
-  status: outdated
-  summary: SSH for Clusters
-  licenses:
-    - Apache
-  categories:
-    - Networking
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: teleport
