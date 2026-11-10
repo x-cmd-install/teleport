@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: teleport
+  visiblename: teleport
+  version: 18.10.0
+  origversion: null
+  status: outdated
+  licenses:
+    - AGPL-3.0
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -461,12 +470,3 @@
     - AGPL-3.0-only
   categories:
     - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: teleport
-  visiblename: teleport
-  version: 18.10.0
-  origversion: null
-  status: outdated
-  licenses:
-    - AGPL-3.0
