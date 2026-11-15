@@ -47,30 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,095 · **Forks**: 2,185 · **Open issues**: 13,199 · **Contributors**: 393
+- **Stars**: 21,096 · **Forks**: 2,189 · **Open issues**: 13,200 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 497 · **Closed issues**: 10459 · **Open issues**: 2740 · **Commits**: 27925
+- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 498 · **Closed issues**: 10459 · **Open issues**: 2741 · **Commits**: 27925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 9 | 19 | 48 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 19 | 46 | 110 | 0 |
-| 90d | 2026-08-16 | 0 | 0 | 42 | 67 | 147 | 44 |
-| last180d | 2026-05-18 | 13 | 1947 | 169 | 222 | 334 | 1309 |
-| 360d | 2025-11-19 | 39 | 5778 | 316 | 559 | 686 | 3485 |
-| last720d | 2024-11-24 | 100 | 15193 | 420 | 1563 | 1248 | 7354 |
+| 30d | 2026-10-16 | 0 | 0 | 10 | 18 | 47 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 20 | 46 | 110 | 0 |
+| 90d | 2026-08-17 | 0 | 0 | 42 | 67 | 146 | 17 |
+| last180d | 2026-05-19 | 13 | 1919 | 169 | 218 | 334 | 1235 |
+| 360d | 2025-11-20 | 39 | 5730 | 315 | 555 | 684 | 3392 |
+| last720d | 2024-11-25 | 100 | 15157 | 421 | 1556 | 1245 | 7354 |
 
 ## Distribution status
 
-Reported by **31** distros on [repology.org](https://repology.org/project/teleport). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **31** distros on [repology.org](https://repology.org/project/teleport). **1** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `18.11.1` | ✅ latest |
+| Homebrew | `18.11.10` | ✅ latest |
 | Nix unstable | `18.10.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `17.7.26` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:13:40Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:23:01Z._
