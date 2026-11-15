@@ -9,7 +9,7 @@
   visiblename: teleport
   version: 18.11.1
   origversion: 18.11.1-alt1
-  status: newest
+  status: outdated
   summary: The easiest, and most secure way to access and protect all of your infrastructure
   maintainers:
     - aibure@altlinux.org
@@ -82,7 +82,7 @@
 - repo: homebrew
   srcname: teleport
   visiblename: teleport
-  version: 18.11.1
+  version: 18.11.10
   origversion: null
   status: newest
   summary: Modern SSH server for teams managing distributed infrastructure
@@ -99,7 +99,7 @@
   visiblename: teleport
   version: 18.11.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Teleport SSH server and Certificate Authority
   maintainers:
     - gclawes@github
@@ -427,7 +427,7 @@
   visiblename: net/teleport
   version: 18.11.1
   origversion: 18.11.1p3
-  status: newest
+  status: outdated
   summary: reverse-proxy with built-in authentication and auditing
   maintainers:
     - stsp@openbsd.org
