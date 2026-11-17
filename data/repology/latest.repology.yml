@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: teleport
+  visiblename: teleport
+  version: 18.11.10
+  origversion: null
+  status: newest
+  summary: Modern SSH server for teams managing distributed infrastructure
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -79,13 +86,6 @@
     - kraileth@elderlinux.org
   categories:
     - security
-- repo: homebrew
-  srcname: teleport
-  visiblename: teleport
-  version: 18.11.10
-  origversion: null
-  status: newest
-  summary: Modern SSH server for teams managing distributed infrastructure
 - repo: homebrew
   srcname: teleport
   visiblename: teleport
@@ -465,8 +465,8 @@
   subrepo: main
   binname: teleport
   visiblename: teleport
-  version: 18.10.0
+  version: 18.11.10
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - AGPL-3.0
