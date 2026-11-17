@@ -31,8 +31,8 @@ x install teleport
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,31 +42,31 @@ x install teleport
 
 ## 发布
 
-- **最新版本**: `v18.10.0` (2026-07-09)
+- **最新版本**: `v18.11.10` (2026-11-16)
 - **最近提交**: 2026-08-25
 
 ## 流行度
 
-- **Star**: 21,105 · **Fork**: 2,190 · **开放 issue**: 13,200 · **贡献者**: 393
+- **Star**: 21,109 · **Fork**: 2,195 · **开放 issue**: 13,204 · **贡献者**: 393
 
 ## 累计统计
 
-- **发布数**: 833 · **已合并 PR**: 48613 · **开放 PR**: 498 · **已关闭 issue**: 10459 · **开放 issue**: 2741 · **提交数**: 27925
+- **发布数**: 834 · **已合并 PR**: 48613 · **开放 PR**: 498 · **已关闭 issue**: 10461 · **开放 issue**: 2743 · **提交数**: 27925
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 10 | 17 | 47 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 20 | 46 | 109 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 42 | 67 | 146 | 17 |
-| last180d | 2026-05-20 | 13 | 1884 | 164 | 213 | 333 | 1235 |
-| 360d | 2025-11-21 | 38 | 5682 | 315 | 551 | 682 | 3392 |
-| last720d | 2024-11-26 | 100 | 15123 | 421 | 1552 | 1245 | 7339 |
+| 30d | 2026-10-18 | 1 | 0 | 11 | 17 | 51 | 0 |
+| last60d | 2026-09-18 | 1 | 0 | 20 | 47 | 111 | 0 |
+| 90d | 2026-08-19 | 1 | 0 | 42 | 69 | 148 | 17 |
+| last180d | 2026-05-21 | 14 | 1849 | 163 | 212 | 331 | 1235 |
+| 360d | 2025-11-22 | 39 | 5670 | 314 | 553 | 683 | 3392 |
+| last720d | 2024-11-27 | 100 | 15091 | 421 | 1550 | 1245 | 7328 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/teleport) 上共有 **31** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/teleport) 上共有 **31** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -83,4 +83,4 @@ teleport 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:20:19Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:08:08Z._

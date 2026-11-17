@@ -31,8 +31,8 @@ Overall score: **5.6 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -42,31 +42,31 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v18.10.0` (2026-07-09)
+- **Latest**: `v18.11.10` (2026-11-16)
 - **Last commit**: 2026-08-25
 
 ## Popularity
 
-- **Stars**: 21,105 · **Forks**: 2,190 · **Open issues**: 13,200 · **Contributors**: 393
+- **Stars**: 21,109 · **Forks**: 2,195 · **Open issues**: 13,204 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 833 · **Merged PRs**: 48613 · **Open PRs**: 498 · **Closed issues**: 10459 · **Open issues**: 2741 · **Commits**: 27925
+- **Releases**: 834 · **Merged PRs**: 48613 · **Open PRs**: 498 · **Closed issues**: 10461 · **Open issues**: 2743 · **Commits**: 27925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 10 | 17 | 47 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 20 | 46 | 109 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 42 | 67 | 146 | 17 |
-| last180d | 2026-05-20 | 13 | 1884 | 164 | 213 | 333 | 1235 |
-| 360d | 2025-11-21 | 38 | 5682 | 315 | 551 | 682 | 3392 |
-| last720d | 2024-11-26 | 100 | 15123 | 421 | 1552 | 1245 | 7339 |
+| 30d | 2026-10-18 | 1 | 0 | 11 | 17 | 51 | 0 |
+| last60d | 2026-09-18 | 1 | 0 | 20 | 47 | 111 | 0 |
+| 90d | 2026-08-19 | 1 | 0 | 42 | 69 | 148 | 17 |
+| last180d | 2026-05-21 | 14 | 1849 | 163 | 212 | 331 | 1235 |
+| 360d | 2025-11-22 | 39 | 5670 | 314 | 553 | 683 | 3392 |
+| last720d | 2024-11-27 | 100 | 15091 | 421 | 1550 | 1245 | 7328 |
 
 ## Distribution status
 
-Reported by **31** distros on [repology.org](https://repology.org/project/teleport). **1** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **31** distros on [repology.org](https://repology.org/project/teleport). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:20:17Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:08:07Z._
