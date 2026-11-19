@@ -1,10 +1,20 @@
-- repo: homebrew
+- repo: nix_stable_24_11
   srcname: teleport
   visiblename: teleport
-  version: 18.11.10
+  version: 16.5.9
   origversion: null
-  status: newest
-  summary: Modern SSH server for teams managing distributed infrastructure
+  status: legacy
+  summary: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+  maintainers:
+    - arian.vanputten@gmail.com
+    - justinas@justinas.org
+    - yann.hodique@gmail.com
+    - tomberek@gmail.com
+    - freezeboy@github
+    - techknowlogick@gitea.com
+    - juliusfreudenberger@github
+  licenses:
+    - AGPL-3.0-or-later
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -40,9 +50,9 @@
   srcname: teleport-bin
   binname: teleport-bin
   visiblename: teleport-bin
-  version: 18.10.0
-  origversion: 18.10.0-1
-  status: outdated
+  version: 18.11.10
+  origversion: 18.11.10-1
+  status: newest
   summary: Modern SSH server for teams managing distributed infrastructure
   maintainers:
     - axionl@aur
@@ -86,6 +96,13 @@
     - kraileth@elderlinux.org
   categories:
     - security
+- repo: homebrew
+  srcname: teleport
+  visiblename: teleport
+  version: 18.11.10
+  origversion: null
+  status: newest
+  summary: Modern SSH server for teams managing distributed infrastructure
 - repo: homebrew
   srcname: teleport
   visiblename: teleport
@@ -157,23 +174,6 @@
     - techknowlogick@gitea.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: teleport
-  visiblename: teleport
-  version: 16.5.9
-  origversion: null
-  status: legacy
-  summary: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
-  maintainers:
-    - arian.vanputten@gmail.com
-    - justinas@justinas.org
-    - yann.hodique@gmail.com
-    - tomberek@gmail.com
-    - freezeboy@github
-    - techknowlogick@gitea.com
-    - juliusfreudenberger@github
-  licenses:
-    - AGPL-3.0-or-later
 - repo: nix_stable_24_11
   srcname: teleport_16
   visiblename: teleport
