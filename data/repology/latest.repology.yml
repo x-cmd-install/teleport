@@ -1,20 +1,29 @@
-- repo: nix_stable_24_11
-  srcname: teleport
-  visiblename: teleport
-  version: 16.5.9
-  origversion: null
-  status: legacy
-  summary: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- repo: aur
+  srcname: teleport-bin
+  binname: teleport-bin
+  visiblename: teleport-bin
+  version: 18.11.10
+  origversion: 18.11.10-1
+  status: newest
+  summary: Modern SSH server for teams managing distributed infrastructure
   maintainers:
-    - arian.vanputten@gmail.com
-    - justinas@justinas.org
-    - yann.hodique@gmail.com
-    - tomberek@gmail.com
-    - freezeboy@github
-    - techknowlogick@gitea.com
-    - juliusfreudenberger@github
+    - axionl@aur
+    - mdeboer@aur
+    - gromit@aur
   licenses:
-    - AGPL-3.0-or-later
+    - LicenseRef-TeleportCommunityLicense
+- repo: aur
+  srcname: teleport-git
+  binname: teleport-git
+  visiblename: teleport-git
+  version: r7049.38b24f680
+  origversion: r7049.38b24f680-1
+  status: rolling
+  summary: Modern SSH server for teams managing distributed infrastructure
+  maintainers:
+    - fuhry@aur
+  licenses:
+    - Apache
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -46,32 +55,6 @@
     - fuhry@aur
   licenses:
     - AGPLv3
-- repo: aur
-  srcname: teleport-bin
-  binname: teleport-bin
-  visiblename: teleport-bin
-  version: 18.11.10
-  origversion: 18.11.10-1
-  status: newest
-  summary: Modern SSH server for teams managing distributed infrastructure
-  maintainers:
-    - axionl@aur
-    - mdeboer@aur
-    - gromit@aur
-  licenses:
-    - LicenseRef-TeleportCommunityLicense
-- repo: aur
-  srcname: teleport-git
-  binname: teleport-git
-  visiblename: teleport-git
-  version: r7049.38b24f680
-  origversion: r7049.38b24f680-1
-  status: rolling
-  summary: Modern SSH server for teams managing distributed infrastructure
-  maintainers:
-    - fuhry@aur
-  licenses:
-    - Apache
 - repo: aur
   srcname: teleport-git
   binname: teleport-client-git
@@ -174,6 +157,23 @@
     - techknowlogick@gitea.com
   licenses:
     - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: teleport
+  visiblename: teleport
+  version: 16.5.9
+  origversion: null
+  status: legacy
+  summary: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+  maintainers:
+    - arian.vanputten@gmail.com
+    - justinas@justinas.org
+    - yann.hodique@gmail.com
+    - tomberek@gmail.com
+    - freezeboy@github
+    - techknowlogick@gitea.com
+    - juliusfreudenberger@github
+  licenses:
+    - AGPL-3.0-or-later
 - repo: nix_stable_24_11
   srcname: teleport_16
   visiblename: teleport
@@ -397,6 +397,7 @@
   status: outdated
   summary: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
   maintainers:
+    - andersk@mit.edu
     - arian.vanputten@gmail.com
     - justinas@justinas.org
     - yann.hodique@gmail.com
@@ -413,6 +414,7 @@
   status: outdated
   summary: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
   maintainers:
+    - andersk@mit.edu
     - arian.vanputten@gmail.com
     - justinas@justinas.org
     - yann.hodique@gmail.com
