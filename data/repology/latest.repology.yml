@@ -1,29 +1,3 @@
-- repo: aur
-  srcname: teleport-bin
-  binname: teleport-bin
-  visiblename: teleport-bin
-  version: 18.11.10
-  origversion: 18.11.10-1
-  status: newest
-  summary: Modern SSH server for teams managing distributed infrastructure
-  maintainers:
-    - axionl@aur
-    - mdeboer@aur
-    - gromit@aur
-  licenses:
-    - LicenseRef-TeleportCommunityLicense
-- repo: aur
-  srcname: teleport-git
-  binname: teleport-git
-  visiblename: teleport-git
-  version: r7049.38b24f680
-  origversion: r7049.38b24f680-1
-  status: rolling
-  summary: Modern SSH server for teams managing distributed infrastructure
-  maintainers:
-    - fuhry@aur
-  licenses:
-    - Apache
 - repo: altsisyphus
   srcname: teleport
   binnames:
@@ -55,6 +29,32 @@
     - fuhry@aur
   licenses:
     - AGPLv3
+- repo: aur
+  srcname: teleport-bin
+  binname: teleport-bin
+  visiblename: teleport-bin
+  version: 18.11.10
+  origversion: 18.11.10-1
+  status: newest
+  summary: Modern SSH server for teams managing distributed infrastructure
+  maintainers:
+    - axionl@aur
+    - mdeboer@aur
+    - gromit@aur
+  licenses:
+    - LicenseRef-TeleportCommunityLicense
+- repo: aur
+  srcname: teleport-git
+  binname: teleport-git
+  visiblename: teleport-git
+  version: r7049.38b24f680
+  origversion: r7049.38b24f680-1
+  status: rolling
+  summary: Modern SSH server for teams managing distributed infrastructure
+  maintainers:
+    - fuhry@aur
+  licenses:
+    - Apache
 - repo: aur
   srcname: teleport-git
   binname: teleport-client-git
