@@ -47,22 +47,32 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,146 · **Forks**: 2,201 · **Open issues**: 13,232 · **Contributors**: 392
+- **Stars**: 21,149 · **Forks**: 2,202 · **Open issues**: 13,233 · **Contributors**: 392
 
 ## Totals (cumulative)
 
-- **Releases**: 834 · **Merged PRs**: 48613 · **Open PRs**: 496 · **Closed issues**: 10476 · **Open issues**: 2756 · **Commits**: 27925
+- **Releases**: 834 · **Merged PRs**: 48613 · **Open PRs**: 497 · **Closed issues**: 10477 · **Open issues**: 2756 · **Commits**: 27925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 0 | 9 | 8 | 60 | 0 |
-| last60d | 2026-09-27 | 1 | 0 | 21 | 47 | 124 | 0 |
-| 90d | 2026-08-28 | 1 | 0 | 42 | 65 | 158 | 0 |
-| last180d | 2026-05-30 | 13 | 1626 | 153 | 206 | 329 | 1127 |
-| 360d | 2025-12-01 | 39 | 5537 | 308 | 553 | 687 | 3305 |
-| last720d | 2024-12-06 | 100 | 14778 | 416 | 1537 | 1249 | 7197 |
+| 30d | 2026-10-28 | 1 | 0 | 9 | 8 | 60 | 0 |
+| last60d | 2026-09-28 | 1 | 0 | 22 | 47 | 123 | 0 |
+| 90d | 2026-08-29 | 1 | 0 | 42 | 64 | 159 | 0 |
+| last180d | 2026-05-31 | 13 | 1626 | 154 | 206 | 330 | 1127 |
+| 360d | 2025-12-02 | 38 | 5506 | 309 | 548 | 684 | 3305 |
+| last720d | 2024-12-07 | 100 | 14773 | 417 | 1538 | 1249 | 7176 |
+
+## Distribution status
+
+Reported by **31** distros on [repology.org](https://repology.org/project/teleport). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `18.11.10` | ✅ latest |
+| Nix unstable | `18.10.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `17.7.26` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +83,4 @@ Install metadata for teleport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:48Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:17:44Z._
